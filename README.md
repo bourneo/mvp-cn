@@ -10,6 +10,8 @@ Most Valuable Project of Chinese
 
 GitHub 技术仓库太多，好的资源能让工程师的高效的提升技术视野和工程能力，需要一个能够可以快速指路的清单。
 
+### Java
+
 | 项目                                                                                           | 描述                                                                                              | 推荐指数                                                                                                                            |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------ |
 | [source-code-hunter](https://github.com/doocs/source-code-hunter)                             | 主要用于记录框架及中间件源码的阅读经验、个人理解及解析，希望能够使阅读源码变得简单有趣。设计的源码项目挺多，可以作为源码阅读的一个参照。||
@@ -18,7 +20,6 @@ GitHub 技术仓库太多，好的资源能让工程师的高效的提升技术�
 | [JavaGuide](https://github.com/Snailclimb/JavaGuide)                                          | 一份非常全面的 Java 技术查漏补缺的技术指南，库主长期维护，涵盖大部分 Java 程序员所需要掌握的核心知识。还有一个面试突击版本。||
 | [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)                                 | 一份涵盖内容广泛的 Java 资源列表，内容包括：构建工具、数据库、框架、模板、安全、代码分析、日志、第三方库、书籍、Java 站点等等。||
 | [mybatis](https://github.com/tuguangquan/mybatis)                                             | mybatis源码中文注释。MyBatis 和 Spring 框架是 Java 工程师必须要攻占的两个山头。||
-| [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)     | 一个免费的编程中文书籍索引，收集了主流技术栈的免费计算机编程类中文书籍。||
 
 
 
@@ -27,19 +28,25 @@ GitHub 技术仓库太多，好的资源能让工程师的高效的提升技术�
 
 
 
-## 中文书籍仓库
+### 测试
+
+| 项目                                                                                           | 描述                                                                                              | 推荐指数                                                                                                                            |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------ |
+| [metersphere](https://github.com/metersphere/metersphere)                                     | 一站式开源持续测试平台；涵盖测试跟踪、接口测试、性能测试、团队协作等功能；全面兼容 JMeter、Postman、Swagger 等开源、主流标准。||
+
+
+
+
+
+
+### 中文书籍仓库
 
 ---
 
 | 项目                                                                                                                                        | 描述                                                                                              | 推荐指数                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | ------ |
 | [Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)   | Effective Java（第3版）各章节的中英文学习参考。||
-
-
-
-
-
-
+| [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)     | 一个免费的编程中文书籍索引，收集了主流技术栈的免费计算机编程类中文书籍。||
 
 
 ## 中文社区其他项目
