@@ -26,6 +26,7 @@ GitHub 技术仓库太多，好的资源能让工程师的高效的提升技术�
 | 项目                                                                                           | 描述                                                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | [small-spring](https://github.com/fuzhengwei/small-spring)                                    | 手写简化版 Spring 框架，了解 Spring 核心原理。代码开源，但是各个章节的文章要关注公众号才能看。|
+| [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)                                  | 涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。内容基本放在个人博客上。|
 
 
 
